@@ -1,4 +1,3 @@
 # Roadmap-Projects
 
-Server Performance Stats\n
-https://roadmap.sh/projects/server-stats
+Server Performance Stats: https://roadmap.sh/projects/server-stats
